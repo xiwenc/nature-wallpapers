@@ -1,6 +1,6 @@
-# Green wallpapers
+# Nature Wallpapers
 
-A curated list of green wallpapers suitable for desktop and mobile screens.
+A curated list of green nature wallpapers suitable for desktop and mobile screens.
 
 Research has shown [nature has positive effects on your well-being](https://positivepsychologyprogram.com/positive-effects-of-nature/). For those with no easy access to nature we bring it closer to you. Now available on your next screen swipe (empty desktop on OSX). Because just [looking at photos of nature could lower your stress levels](https://www.sciencealert.com/just-looking-at-photos-of-nature-could-be-enough-to-lower-your-work-stress-levels).
 
@@ -9,7 +9,7 @@ Next time you're surprised by mesmerizing nature on your screen, take break and 
 ## Usage
 
 ```
-git clone http://github.com/xiwenc/green-wallpapers.git
+git clone http://github.com/xiwenc/nature-wallpapers.git
 ```
 
 Configure your wallpaper. On OSX I recommend enabling auto rotation feature to keep your desktop exciting.
